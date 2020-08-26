@@ -1,5 +1,10 @@
-1. List item 1
-2. List item 2
-   - Nested item
-   - - Another nested item
-* What about this one?
+*1. Favourite food*
+    - Taco
+    - Pizza
+    - Lamb chops
+    - Pancakes
+    
+*2. Favourite places*
+    - Norway
+    - Pretoria (South Africa)
+    - Haiti
