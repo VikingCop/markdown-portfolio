@@ -1,10 +1,10 @@
-*1. Favourite food*
-    - Taco
-    - Pizza
-    - Lamb chops
-    - Pancakes
+**1. Favourite food**
+  - _Taco_
+  - Pizza
+  - Lamb chops
+  - Pancakes
     
-*2. Favourite places*
-    - Norway
-    - Pretoria (South Africa)
-    - Haiti
+**2. Favourite places**
+  - _Norway_
+  - Pretoria (South Africa)
+  - Haiti
